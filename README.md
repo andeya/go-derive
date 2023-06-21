@@ -1,2 +1,2 @@
 # go-derive
-Similar to generator to derive go code based on macro comments
+Similar to go-generator to derive go code based on macro comments
